@@ -1,0 +1,29 @@
+body{
+  background-image: url("https://images.unsplash.com/32/Mc8kW4x9Q3aRR3RkP5Im_IMG_4417.jpg?ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTV8fGJhY2tncm91bmQlMjBpbWFnZXxlbnwwfHx8fDE2OTQ3MDk4Njd8MA&ixlib=rb-4.0.3");
+}
+.h1{
+ margin-top: 7rem;
+ margin-left: 45rem;
+ font-size: 55px;
+ color:rgba(147, 199, 199, 0.588)
+}
+.input{
+  width: 200px;
+  height: 50px;
+  margin-left: 50rem;
+  font-size: 25px;
+  background-color: antiquewhite;
+}
+.button{
+  margin-left: 50.2rem;
+  margin-top: 2rem;
+  width: 200px;
+  height: 50px;
+  background-color: rgb(133, 193, 196);
+  font-size: 20px;
+  font-family: "";
+}
+.button1{
+  background-color: rgb(109, 52, 52);
+  color: aliceblue;
+}
